@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678896699097",
+    "project_id": "qltc-53f51",
+    "storage_bucket": "qltc-53f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678896699097:android:9fddfdcbf97167434c20c8",
+        "android_client_info": {
+          "package_name": "com.QLTC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678896699097-hrlviuppkoaj92lein2qrg9c2vndlkrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR8ioLq0nSFDOBvF7iYYjVQbpQeeeq2QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678896699097-hrlviuppkoaj92lein2qrg9c2vndlkrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

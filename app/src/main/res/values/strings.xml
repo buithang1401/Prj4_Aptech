@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">QuanLyTaiChinh</string>
+    <string name="Type">Phân Loại</string>
+    <string-array name="Spnner_Role">
+        <item>Thu</item>
+        <item>Chi</item>
+    </string-array>
+    <string-array name="Income_Role">
+        <item>Lương</item>
+        <item>Thu Nợ</item>
+        <item>Thu Nhập Khác</item>
+    </string-array>
+    <string-array name="Spend_Role">
+        <item>Hóa Đơn</item>
+        <item>Ăn Uống</item>
+        <item>Sửa Chữa</item>
+        <item>Di Chuyển</item>
+        <item>Vui Chơi</item>
+        <item>Làm Đẹp</item>
+        <item>Mua Sắm</item>
+        <item>Cho Vay</item>
+    </string-array>
+    <string-array name="Other_Role">
+        <item>Đầu Tư</item>
+        <item>Cho Vay</item>
+        <item>Chi Phí Khác</item>
+    </string-array>
+    <string-array name="Search_Type">
+        <item>Theo ngày</item>
+        <item>Theo tháng</item>
+    </string-array>
+</resources>
